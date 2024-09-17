@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/room-b007-banner.png" />
+  <img src="../assets/images/room-b007-banner.png" />
 </p>
 
 # `room-b007`
