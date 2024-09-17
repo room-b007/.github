@@ -3,4 +3,4 @@
 </p>
 
 # `room-b007`
-Just a small room in a big world.
+Just a small room with a couple of researchers inside.
